@@ -1,4 +1,4 @@
 # 4HoursPrinciple
 > Rediscovering the power of the 4 hours principle.
 
-Check out the site at [mohamedhayibor.github.io](mohamedhayibor.github.io)
+Check out the site at [mohamedhayibor.github.io](http://mohamedhayibor.github.io/)
